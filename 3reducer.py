@@ -14,9 +14,9 @@ for line in s:
       r.write(thisKey + '\t' + str(thisValue)+'\n')
 
     # start over when changing keys
-    thisKey = store 
+    thisKey = store
     thisValue = 0.0
-  
+
   # apply the aggregation function
   thisValue += float(amount)
 
