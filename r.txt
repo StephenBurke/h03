@@ -34,4 +34,4 @@ San Jose	429.87
 Spokane	291.5
 Stockton	247.18
 Tulsa	205.06
-Virginia Beach	376.11
+Virginia Beach	376.11 1
